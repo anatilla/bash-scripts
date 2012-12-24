@@ -1,7 +1,7 @@
 #!/bin/sh
 
 usage(){
-  echo "usage: $(basename $0) <file url>"
+  echo "usage: $(basename $0) <file path>"
 }
 
 if [[ $# -eq 0 ]]; then
