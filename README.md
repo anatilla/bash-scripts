@@ -6,7 +6,7 @@ Enjoy it!
 Scripts on this repo:
 
 loggerRead.sh 
-	enables periodical monitoring of a single file, especially if is updated frequently (like a .log file)
+	enables periodical monitoring of a single file, especially if it's updated frequently (like a .log file)
 
 
 
